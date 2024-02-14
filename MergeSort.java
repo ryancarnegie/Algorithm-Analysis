@@ -47,9 +47,7 @@ public class MergeSortAlgorithm {
 		// Implement here
 		int left = A.length;
 		int right = C.length;
-		int i = 0;
-		int j = 0;
-		int k = 0;
+		int i = 0, int j = 0, int k = 0;
 		
 		while (i < left && j < right) {
 			if (A[i] <= C[j]) {
