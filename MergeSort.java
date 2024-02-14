@@ -13,7 +13,6 @@ public class MergeSortAlgorithm {
 		int findLeft = findMax(a, left, middle);
 		int findRight = findMax(a, middle + 1, right);
 		//System.out.println(Math.max(findLeft, findRight)); used this for testing, it shows 9 instead of 10.
-		//This algorithm may not be correct.
 		return Math.max(findLeft, findRight);	
 	}
 
