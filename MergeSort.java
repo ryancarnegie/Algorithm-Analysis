@@ -37,7 +37,7 @@ public class MergeSortAlgorithm {
 			mergeSort(left);
 			mergeSort(right);
 			//merge(B, C, A);
-            merge(A, left, right);
+			merge(A, left, right);
 		}
 		return A;
 	}
