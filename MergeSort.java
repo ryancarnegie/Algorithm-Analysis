@@ -90,3 +90,13 @@ public class MergeSortAlgorithm {
 			System.out.print(b[i] + ", ");
 	}
 }
+
+
+Output
+Q1) findMax
+Maximum element: position 10
+Q2) mergeSort
+Before sort:
+3, 2, 7, 6, 8, 
+After sort:    
+2, 3, 6, 7, 8, 
