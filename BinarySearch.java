@@ -23,7 +23,7 @@ F(n) = 1
 
 n logb^a = n log2^1 = n^0 = 1
                      F(n) = 1
-Since 1 and 1 are equal, therefore
+Since 1 and 1 are equal, therefore,
 n logb^a = F(n), T(n) ∈ O(n logb^a log n) = log n
 
 therefore, the big O of binary search is log n
