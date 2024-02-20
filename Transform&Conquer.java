@@ -1,5 +1,3 @@
-
-
 Transform & Conquer
 
 1. Instance simplification
