@@ -27,3 +27,5 @@ Since 1 and 1 are equal, therefore,
 n logb^a = F(n), T(n) ∈ O(n logb^a log n) = log n
 
 therefore, the big O of binary search is log n
+
+  
