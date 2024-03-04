@@ -21,3 +21,4 @@ public class Divide&Conquer {
 		int b[] = {3,2,7,6,10};
 		System.out.printf("Q1) findMax\nMaximum element: position %d\n", findMax(a, 0, a.length - 1) + 1);
 }
+
